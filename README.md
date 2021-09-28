@@ -1,7 +1,9 @@
 # NMA_DeepLearning2021
 
 
-# Project- "Comparison of several deep models in the classification of music genres" - by Ali Darzi, Yu-Fang Yang, Yaxin Liu, Jelena Sucevic
+# Project
+## "Comparison of several deep models in the classification of music genres" 
+### by Ali Darzi, Yu-Fang Yang, Yaxin Liu, Jelena Sucevic
 
 Abstract : 
 
