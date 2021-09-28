@@ -1,5 +1,3 @@
-# NMA_DeepLearning2021
-
 
 # Project
 ## "Comparison of several deep models in the classification of music genres" 
